@@ -1,0 +1,42 @@
+﻿
+ 
+.WO-container {
+    width: 100%;
+}
+
+.WO-Table-Wrapper {
+    display: flex;
+    width: 60%;
+    line-height: 25px;
+}
+
+.top-elements {
+    width: 30%;
+    /* background-color: #dbdad5; */
+}
+
+.information-add-wrapper {
+}
+
+.info-row {
+}
+
+.current-WO-Container {
+    width: 40%;
+    border: black;
+    border-style: solid;
+}
+
+.work-Orders-list {
+    text-align: center;
+}
+
+.information-add-wrapper {
+    background-color: gray;
+}
+
+.list-WO{
+   
+    text-align:left;
+}
+ 
