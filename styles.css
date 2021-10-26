@@ -1,5 +1,5 @@
 ﻿
- 
+
 .WO-container {
     width: 100%;
 }
@@ -16,15 +16,21 @@
 }
 
 .information-add-wrapper {
+    font-size: 20px;
 }
 
 .info-row {
 }
 
 .current-WO-Container {
+    background-image: url("img/parchmentPaper.jpg");
+    background-size: cover;
     width: 40%;
+    position: relative;
+    left: 40px;
     border: black;
     border-style: solid;
+    font-size: 20px;
 }
 
 .work-Orders-list {
@@ -33,10 +39,12 @@
 
 .information-add-wrapper {
     background-color: gray;
+    border: black;
+    border-style: solid;
+    background-image: url("img/wood.jpg");
+    background-size: cover;
 }
 
-.list-WO{
-   
-    text-align:left;
+.list-WO {
+    text-align: left;
 }
- 
